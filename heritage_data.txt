@@ -1,7 +1,0 @@
-ID: 1
-Name: newSite
-Description: all on NEWSITE
-Location: NAIROBI
-Condition: GOOD
-Media: newsite_photo.jpg
----
